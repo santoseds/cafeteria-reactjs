@@ -1,9 +1,12 @@
 db.json:
 
 {
-  "foooods": [
-    
-  ]
+	"food":[
+		{
+			"name": "Hamburger",
+			"image": "https://source.unsplash.com/sc5sTPMrVfk"
+		}
+	]
 }
 
 json-server --watch db.json --port 4000
