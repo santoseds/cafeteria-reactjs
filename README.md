@@ -1,7 +1,7 @@
 db.json:
 
 {
-	"food":[
+	"fooood":[
 		{
 			"name": "Hamburger",
 			"image": "https://source.unsplash.com/sc5sTPMrVfk"
