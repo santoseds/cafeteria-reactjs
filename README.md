@@ -4,7 +4,8 @@ db.json:
 	"fooood":[
 		{
 			"name": "Hamburger",
-			"image": "https://source.unsplash.com/sc5sTPMrVfk"
+			"image": "https://source.unsplash.com/sc5sTPMrVfk",
+   			"id": 1
 		}
 	]
 }
