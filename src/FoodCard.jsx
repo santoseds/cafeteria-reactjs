@@ -1,5 +1,4 @@
 import { FaPencilAlt, FaTrashAlt } from 'react-icons/fa';
-import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import useFoodContext from './hook/useFoodContext';
