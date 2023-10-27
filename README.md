@@ -3,7 +3,7 @@ db.json:
 {
   "foooods": [
     {
-      "name": "burger",
+      "name": "Hamburger",
       "image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=815&q=80",
       "id": 1
     }
